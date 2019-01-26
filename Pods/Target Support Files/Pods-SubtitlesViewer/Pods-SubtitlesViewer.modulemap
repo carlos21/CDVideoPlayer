@@ -1,0 +1,6 @@
+framework module Pods_SubtitlesViewer {
+  umbrella header "Pods-SubtitlesViewer-umbrella.h"
+
+  export *
+  module * { export * }
+}
